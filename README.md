@@ -72,3 +72,15 @@ supports healthcare decision-making.
 -   Migration to Power BI for advanced interactivity
 -   Integration with SQL database for automated data ingestion
 -   Predictive analytics for patient flow forecasting
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## 🌟 About Me
+Tanmoy Dutta  
+Regional Coordinator/MIS Executive  
+📧 Email: **iamtanmoy017@gmail.com**  
+🔗 [Linkdin](https://www.linkedin.com/feed/)
