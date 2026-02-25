@@ -1,5 +1,7 @@
 # 🏥 Hospital Emergency Room Dashboard (Excel)
 
+![Dashboard](https://github.com/TanmoyDutta017/Hospital_data_analysis/blob/main/files/Hospital%20Data.png)
+
 ## 📌 Project Overview
 
 This project showcases an interactive Hospital Emergency Room dashboard
